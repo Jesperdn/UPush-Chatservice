@@ -1,6 +1,6 @@
 # UPush-Chatservice
 
-Multi-client chat service written in C for the home exam in IN2140 - Introduction to operating systems and data communication.
+Multi-client chat service over UDP written in C for the home exam in IN2140 - Introduction to operating systems and data communication.
 
 ## Run the program
 
